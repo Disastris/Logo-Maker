@@ -9,7 +9,7 @@ inquirer
     },
     {   type:'list',
         message: 'What color do you want the shape to be',
-        choices: []
+        choices: ['red','orange','yellow','green','blue','purple']
     },
     {
         type: 'list',
